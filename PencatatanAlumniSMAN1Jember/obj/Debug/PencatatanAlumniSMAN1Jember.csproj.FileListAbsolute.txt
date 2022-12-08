@@ -1,0 +1,17 @@
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\bin\Debug\PencatatanAlumniSMAN1Jember.exe.config
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\bin\Debug\PencatatanAlumniSMAN1Jember.exe
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\bin\Debug\PencatatanAlumniSMAN1Jember.pdb
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.csproj.AssemblyReference.cache
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.LoginAdmin.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.LoginAkun.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.LoginSiswa.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.Properties.Resources.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.csproj.GenerateResource.cache
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.csproj.CoreCompileInputs.cache
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.exe
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.pdb
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.HalSiswa.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.Form1.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.Form2.resources
+D:\KULIAH\SMT 3\PBO\Project Akhir\PencatatanAlumniSMAN1Jember\PencatatanAlumniSMAN1Jember\obj\Debug\PencatatanAlumniSMAN1Jember.Form3.resources
